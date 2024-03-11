@@ -1,6 +1,9 @@
 ### python
 Python is a high-level, interpreted programming language. It is widely used in various fields such as web development, data science, artificial intelligence and automation.
 
+### Inbuilt Function
+pre-defined function
+Examples: str(), int(), float()
 ### Data Type
 1. **Numeric Data Types:**
    - **int**: Represents integers (whole numbers). Example: `x = 5`
