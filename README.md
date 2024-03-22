@@ -127,3 +127,12 @@ function is a block of reusable code that performs a specific task. Functions ar
 Modules can define functions, classes, and variables that can be used in other Python files by importing the module. `import`
 #### Packages
 Package is a collection of modules organized in directories.
+#### Virtual Env
+logical separation for python machine
+```
+# Create a virtual environment
+python -m venv myenv
+
+# Activate the virtual environment (on macOS/Linux)
+source myenv/bin/activate
+```
