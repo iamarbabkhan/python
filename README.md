@@ -117,3 +117,7 @@ Local variables are defined within a function or a block.
    my_function()
    print(x)  # This will raise an error since 'x' is not defined outside the function.
    ```
+#### Snake casing: `_`
+example: arbab_khan
+#### Camel casing: `A`
+example: khanArbab
