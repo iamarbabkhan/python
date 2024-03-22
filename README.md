@@ -121,3 +121,9 @@ Local variables are defined within a function or a block.
 example: arbab_khan
 #### Camel casing: `A`
 example: khanArbab
+#### Function
+function is a block of reusable code that performs a specific task. Functions are defined using the `def`
+#### Module
+Modules can define functions, classes, and variables that can be used in other Python files by importing the module. `import`
+#### Packages
+Package is a collection of modules organized in directories.
