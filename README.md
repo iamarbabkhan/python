@@ -1,4 +1,4 @@
-### python
+### Python
 Python is a high-level, interpreted programming language. It is widely used in various fields such as web development, data science, artificial intelligence and automation.
 
 ### Inbuilt Function
@@ -87,3 +87,10 @@ Examples: str(), int(), float()
 25. **global**: It is used to declare a global variable within a function's scope.
 
 26. **nonlocal**: It is used to declare a variable as nonlocal, which allows modifying a variable in an enclosing (but non-global) scope.
+
+### Variable
+```
+number = 42
+print(number)
+```
+`number` is variable
