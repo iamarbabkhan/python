@@ -94,3 +94,26 @@ name = "arbab"
 print(name)
 ```
 here `name` is variable and `"arbab"` is string
+
+#### Global variable
+
+Global variables are defined outside of any function.
+ ```python
+   y = 20  # Global variable
+
+   def another_function():
+       print(y)  # This will access the global variable 'y'
+
+   another_function()
+   print(y)  # This will print 20
+   ```
+#### Local varibale
+Local variables are defined within a function or a block.
+ ```python
+   def my_function():
+       x = 10  # Local variable
+       print(x)
+   
+   my_function()
+   print(x)  # This will raise an error since 'x' is not defined outside the function.
+   ```
