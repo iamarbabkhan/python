@@ -90,7 +90,7 @@ Examples: str(), int(), float()
 
 ### Variable
 ```
-number = 42
-print(number)
+name = "arbab"
+print(name)
 ```
-`number` is variable
+here `name` is variable and `"arbab"` is string
