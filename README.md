@@ -137,4 +137,6 @@ python -m venv myenv
 source myenv/bin/activate
 ```
 #### Command line argument
+To access command line variables in Python, you can use the `sys.argv`
 #### Enviornment variable
+To access environment variables in Python, you can use The os `environ`
