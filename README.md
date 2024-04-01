@@ -136,7 +136,100 @@ python -m venv myenv
 # Activate the virtual environment (on macOS/Linux)
 source myenv/bin/activate
 ```
-#### Command line argument
+### Command line argument
 To access command line variables in Python, you can use the `sys.argv`
-#### Enviornment variable
+### Enviornment variable
 To access environment variables in Python, you can use The `os.geten`
+
+### Operator
+#### Arithmetic Operators
+
++: Addition
+
+-: Subtraction
+
+*: Multiplication
+
+/: Division
+
+%: Modulus (remainder)
+
+//: Floor division (integer division)
+
+**: Exponentiation
+
+#### Comparison Operators
+
+==: Equal to
+
+!=: Not equal to
+
+<: Less than
+
+<=: Less than or equal to
+
+>: Greater than
+>
+>=: Greater than or equal to
+
+#### Logical Operators
+
+`and`, `or`, `not`
+
+#### Assignment Operators
+
+=: Assignment
+
++=: Add and assign
+
+-=: Subtract and assign
+
+*=: Multiply and assign
+
+/=: Divide and assign
+
+%=: Modulus and assign
+
+**=: Exponentiate and assign
+
+//=: Floor divide and assign
+
+#### Membership Operators
+
+in: Checks if an element is in a sequence
+
+not in: Checks if an element is not in a sequence
+
+#### Identity Operators
+
+is: Checks if two objects are the same object
+
+is not: Checks if two objects are not the same object
+
+#### Bitwise Operators
+
+&: Bitwise AND
+
+|: Bitwise OR
+
+^: Bitwise XOR
+
+~: Bitwise NOT
+
+<<: Bitwise left shift
+
+>>: Bitwise right shift
+
+#### Other Operators
+
+(): Parentheses for grouping expressions
+
+[]: Square brackets for indexing and slicing
+
+{}: Curly braces for sets and dictionaries
+
+:: Colon for slicing and dictionary keys
+
+;: Semicolon for separating statements
+
+. : Dot operator for accessing object attributes
