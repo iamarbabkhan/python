@@ -233,3 +233,6 @@ is not: Checks if two objects are not the same object
 ;: Semicolon for separating statements
 
 . : Dot operator for accessing object attributes
+
+### Conditional Handling
+Conditional handling in Python is done using the `if`, `elif`, and `else` statements. 
