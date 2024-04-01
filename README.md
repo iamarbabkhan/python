@@ -168,9 +168,9 @@ To access environment variables in Python, you can use The `os.geten`
 
 <=: Less than or equal to
 
->: Greater than
+`>:` Greater than
 
->=: Greater than or equal to
+`>=:` Greater than or equal to
 
 #### Logical Operators
 
@@ -216,9 +216,9 @@ is not: Checks if two objects are not the same object
 
 ~: Bitwise NOT
 
-<<: Bitwise left shift
+`<<:` Bitwise left shift
 
->>: Bitwise right shift
+`>>:` Bitwise right shift
 
 #### Other Operators
 
