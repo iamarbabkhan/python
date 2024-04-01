@@ -169,7 +169,7 @@ To access environment variables in Python, you can use The `os.geten`
 <=: Less than or equal to
 
 >: Greater than
->
+
 >=: Greater than or equal to
 
 #### Logical Operators
